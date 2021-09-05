@@ -1,0 +1,13 @@
+.demo{
+    font-size: 20px;
+    background-color: yellow;
+}
+
+.parent .demo {
+    background-color: red;
+}
+
+.demo{
+    font-size: 20px;
+    background-color: violet;
+}
