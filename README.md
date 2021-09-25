@@ -11,7 +11,9 @@ Welcome to Web and Mobile Programming
 
 ICP1: https://github.com/SAILAJANARRA/WebMobile-2021Fall/wiki/Web_ICP1
 
-ICP2: https://github.com/SAILAJANARRA/WebMobile-2021Fall/wiki/Web_ICP2
+ICP2: https://github.com/SailajaNarra/WebMobile-2021Fall/wiki/ICP-2
+
+ICP2 Video link: https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=204e73ea-e8ae-4b97-a17f-ad9b002d1573
 
 
 **Wiki Links for Mobile ICPs**
